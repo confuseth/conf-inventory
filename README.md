@@ -1,5 +1,6 @@
 # confInventory
 confInventory is a configurable inventory I made for the sake of making it.
+I never made an inventory system by my own before so this will do.
 Weapons/items must be added to the config before they can be used inside the inventory.
 This only works on darkrp or darkrp derived gamemodes but if someone wants
 a sandbox version I might consider adding the compatibility for it.
